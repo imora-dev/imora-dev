@@ -7,13 +7,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que manejo👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que me gustan👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,vite,spring,ai,blender&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,html,ts,js,css,nodejs,react,vite,redux,tailwind,materialui,nextjs,discord,git,github,linux,nginx,mongodb,mysql,postman,java,spring,py,cpp,vscode,ai,blender&perline=14" />
   </a>
 </p>

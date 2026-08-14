@@ -2,7 +2,7 @@
 <h3 align="center">Founder & CEO Fulbopago</h3>
 
 <p align="center">
-  <em>Resolviendo problemas del mundo real mediante la combinación de Ingeniería Industrial y Tecnologia.</em>
+  <em>Resolviendo problemas del mundo real combinando Ingeniería y Tecnologia.</em>
 </p>
 
 
